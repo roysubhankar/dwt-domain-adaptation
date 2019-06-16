@@ -1,7 +1,7 @@
 # Domain Whitening Transform for Unsupervised Domain Adaptation
 
 
-Official github repository for the paper [Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Roy_Unsupervised_Domain_Adaptation_Using_Feature-Whitening_and_Consensus_Loss_CVPR_2019_paper.html) accepted in The Conference on Computer Vision and Pattern Recognition (**CVPR**) held at Long Beach, California in June, 2019.
+Official PyTorch github repository for the paper [Unsupervised Domain Adaptation using Feature-Whitening and Consensus Loss](http://openaccess.thecvf.com/content_CVPR_2019/html/Roy_Unsupervised_Domain_Adaptation_Using_Feature-Whitening_and_Consensus_Loss_CVPR_2019_paper.html) accepted in The Conference on Computer Vision and Pattern Recognition (**CVPR**) held at Long Beach, California in June, 2019.
 
 ### Prerequisites
 * Pytorch 1.0
